@@ -1,1 +1,3 @@
-# suchbildspiel_survey
+# Suchbildspiel mit Survey 
+
+Unser Projekt ist eine gamifizierte UserSurvey. Wir haben uns für ein Suchbildspiel entschieden. Der/die Spieler/in sucht auf dem Bild des Makerspaces der HU ein Symbol oder einen Gegenstand und wird dann durch ein klicken darauf zu einer Frage des Surveys geführt. Das passiert so oft bis die von uns gewählten 8 Fragen durchgespielt und bestenfalls beantwortet wurden. Die Fragen sind ein Mix aus Freitextfragen und Multiple-Choice-Fragen. Ziel der Befragung ist es eine Vorstellung über das Problem eines Einzelnen Makerspace-Nutzers zu gewinnen, um ihm dann zu helfen. Zielgruppe des Makerspace sind Promovierende der HU aus den Geistes- und Sozialwissenschaften.
